@@ -99,6 +99,30 @@ h2 {
     margin-bottom: 16px;
 }
 
+.section__description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section__description--wrapper {
+    width: 60%;
+    padding: 0 24px;
+}
+
+.about__img--wrapper {
+    width: 40%;
+    padding: 0 24px;
+}
+
+.section__description--para {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 24px;
+}
+
+
+
 
 
 
